@@ -37,4 +37,4 @@ while read line
 do   
     echo -e "$line"
 done < score_board.txt
-echo "test";
+echo "au autre test";
