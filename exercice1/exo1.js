@@ -16,5 +16,3 @@ function demandeNombre(){
     
 }
 demandeNombre();
-
-console.log("Teddy");
