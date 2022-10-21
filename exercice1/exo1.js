@@ -17,4 +17,4 @@ function demandeNombre(){
 }
 demandeNombre();
 
-console.log("teddy1");
+console.log("teddy2");
